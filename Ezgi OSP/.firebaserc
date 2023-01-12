@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ezgiangular": {
+      "hosting": {
+        "proje01": [
+          "ezgiangular"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ezgiangular"
+  }
+}
